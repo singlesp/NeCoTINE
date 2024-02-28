@@ -1,4 +1,4 @@
 # NeCoTINE
 Network Control Theory IN NEuroscience
 
-For neuroscientists who can't quit MATLAB!
+A toolbox for neuroscientists who can't quit MATLAB!
